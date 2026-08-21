@@ -14,20 +14,13 @@
 
 ---
 
-<h2 align="center">🕹️ &nbsp; PLAYER STATS &nbsp; 🕹️</h2>
+<h2 align="center">🕹️   PLAYER STATS   🕹️</h2>
 
 <table align="center"><tr><td>
 
-- 🎮 &nbsp;`class`&nbsp;:&nbsp; **Software Engineer**
-- ⚡ &nbsp;`focus`&nbsp;:&nbsp; Building things end-to-end
-- 🧩 &nbsp;`mode`&nbsp;:&nbsp; Always learning, always shipping
-- 🌐 &nbsp;`world`&nbsp;:&nbsp; Web · Backend · Systems
-
-</td></tr></table>
-
 ---
 
-<h2 align="center">🎨 &nbsp; INVENTORY / TECH STACK &nbsp; 🎨</h2>
+<h2 align="center">🎨   INVENTORY / TECH STACK   🎨</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -52,20 +45,10 @@
 
 ---
 
-<h2 align="center">📊 &nbsp; HIGH SCORES &nbsp; 📊</h2>
+<h2 align="center">📊   HIGH SCORES   📊</h2>
 
 <p align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaninside&theme=radical" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaninside&theme=radical" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaninside&theme=radical" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vaninside&theme=radical" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaninside&theme=radical&utcOffset=7" />
 </p>
 
 <p align="center">
@@ -78,7 +61,7 @@
 
 ---
 
-<h2 align="center">🐍 &nbsp; CONTRIBUTION SNAKE &nbsp; 🐍</h2>
+<h2 align="center">🐍   CONTRIBUTION SNAKE   🐍</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vaninside/Vaninside/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
@@ -86,7 +69,7 @@
 
 ---
 
-<h2 align="center">🎯 &nbsp; CONNECT / MULTIPLAYER &nbsp; 🎯</h2>
+<h2 align="center">🎯   CONNECT / MULTIPLAYER   🎯</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/evanrafifpradana/">
