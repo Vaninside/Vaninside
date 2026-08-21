@@ -1,10 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=600&height=70&lines=HELLO+WORLD!;I+AM+VANINSIDE;SOFTWARE+ENGINEER" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,50:FF00AA,100:00E5FF&height=180&section=header&text=%3C%20Player%201%20Ready%20%3E&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Insert%20Coin%20to%20Continue&descSize=14&descAlignY=60&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B00FF,50:FF00AA,100:00E5FF&height=200&section=header&text=EVAN%20RAFIF%20PRADANA&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=%E2%97%84%20INSERT%20COIN%20TO%20CONTINUE%20%E2%96%BA&descSize=16&descAlignY=60&animation=fadeIn&stroke=00E5FF&strokeWidth=2" alt="header" />
 </p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FF00AA&background=00000000&center=true&vCenter=true&width=650&height=60&lines=%3E+HELLO+WORLD!;%3E+I+AM+A+SOFTWARE+ENGINEER;%3E+I+BUILD+THINGS+THAT+SHIP" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-%E2%96%B6%20LEVEL%20UP-8B00FF?style=for-the-badge&labelColor=000000" />
