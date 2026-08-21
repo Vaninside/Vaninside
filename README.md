@@ -55,8 +55,8 @@
 <h2 align="center">📊 &nbsp; HIGH SCORES &nbsp; 📊</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaninside&show_icons=true&theme=synthwave&hide_border=false&border_color=8B00FF&bg_color=000000&title_color=FF00AA&icon_color=00E5FF&text_color=F7F7F7&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaninside&layout=compact&theme=synthwave&hide_border=false&border_color=8B00FF&bg_color=000000&title_color=FF00AA&text_color=F7F7F7&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vaninside&show_icons=true&theme=synthwave&hide_border=false&border_color=8B00FF&bg_color=000000&title_color=FF00AA&icon_color=00E5FF&text_color=F7F7F7&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vaninside&layout=compact&theme=synthwave&hide_border=false&border_color=8B00FF&bg_color=000000&title_color=FF00AA&text_color=F7F7F7&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaninside&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4&rank=SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaninside&theme=synthwave&bg_color=000000&color=FF00AA&line=00E5FF&point=8B00FF&hide_border=false&border_color=8B00FF&area=true" alt="activity graph" />
 </p>
 
 ---
